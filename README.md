@@ -24,4 +24,3 @@ Methods in PassportJS:
 2. req.logout()
 3. req.isAuthenticated()
 4. req.isUnAuthenticated()
-5. 
