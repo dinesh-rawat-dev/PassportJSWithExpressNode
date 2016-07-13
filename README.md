@@ -24,3 +24,16 @@ Methods in PassportJS:
 2. req.logout()
 3. req.isAuthenticated()
 4. req.isUnAuthenticated()
+
+
+Starting application
+-----------
+
+node app
+or
+npm start
+
+Installing dependencies
+------------
+
+npm install
